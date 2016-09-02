@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bounce_id: 1
+  kind: MyString
+  name: MyString
+  message_id: MyString
+  description: MyText
+  details: MyString
+  email: MyString
+  bounced_at: 2016-09-02 18:30:42
+  subject: MyString
+
+two:
+  bounce_id: 1
+  kind: MyString
+  name: MyString
+  message_id: MyString
+  description: MyText
+  details: MyString
+  email: MyString
+  bounced_at: 2016-09-02 18:30:42
+  subject: MyString
